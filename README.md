@@ -7,7 +7,3 @@ In this project, our goal is to clean and analyze employee exit surveys to answe
 2. Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
 
 We will be working with exit surveys from employees of the Department of Education, Training, and Employment (DETE) and the Technical and Further Education institute in Queensland, Australia (TAFE).
-
-Notebook:
-
-[Click here](Clean-And-Analyze-Employee-Exit-Surveys\s(2).ipynb)
