@@ -1,4 +1,4 @@
-# Clean-And-Analyze-Employee-Exit-Services
+# Clean-And-Analyze-Employee-Exit-Surveys
 
 In this project, our goal is to clean and analyze employee exit surveys to answer the following questions:
 
